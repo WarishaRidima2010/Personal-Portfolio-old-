@@ -1,0 +1,134 @@
+body {
+    background-image: url(whiteback.png);
+}
+
+.main {
+    font-family: 'Fredoka One', cursive;
+    color: #ffffff;
+    background-color: #a9dde0;
+    font-size: larger;
+    padding-bottom: 20%;
+    background-image: url(back.png);
+}
+
+.chakra-img {
+    padding-top: 5%;
+    padding-left: 5%;
+    width: 35%;
+    border-radius: 200%;
+}
+.hi {
+    position: absolute;
+    top: 26%;
+    left: 36%;
+}
+
+.pp {
+    font-family: 'Fredoka One', cursive;
+    position: absolute;
+    top: 32%;
+    left: 36%;
+}
+
+.me {
+    font-family: 'Fredoka One', cursive;
+    color: gray;
+}
+
+.Me {
+    font-family: 'Fredoka One', cursive;
+    color: grey;
+    padding-left: 10%;
+    padding-right: 7%;
+    line-height: 2rem;
+    letter-spacing: 2px;
+}
+
+.skills {
+    background-image: url(back.png);
+    padding-top: 5%;
+    color: #ffffff;
+}
+
+.Mee {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+    padding-left: 10%;
+    padding-right: 10%;
+    line-height: 1.8rem;
+    letter-spacing: 1px;
+}
+
+.mee {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+}
+
+.ticc {
+    width: 20%;
+    position: absolute;
+    left: 39%;
+}
+
+.toe {
+    font-family: 'Fredoka One', cursive;
+    color: grey;
+    margin-top: 20%;
+    padding-right: 10%;
+    padding-left: 7%;
+    letter-spacing: 1px;
+    line-height: 2rem;
+}
+
+.lik {
+    text-decoration: underline;
+}
+
+.sbk {
+    width: 37%;
+}
+
+.sbbk {
+    position: absolute;
+    left: 39%;
+}
+
+.sb-p {
+    padding-top: 15%;
+    padding-left: 7%;
+}
+
+.nobel {
+    width: 25%;
+    position: absolute;
+    left: 39%;
+}
+
+.mat {
+    padding-left: 15%;
+}
+
+
+.foot {
+    font-family: 'Fredoka One', cursive;
+    color: black;
+}
+
+.footer {
+    background-color: #a9dde0;
+    background-image: url(footer.png);
+    padding-top: 15%;
+    padding-bottom: 15%;
+}
+
+.foott {
+    font-family: 'Fredoka One', cursive;
+    color: #ffffff;
+}
+
+@media (max-width: 480px) {
+    .main{
+        padding-bottom: 10%;
+    }
+}
+
